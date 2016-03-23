@@ -1,0 +1,758 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "iR1600/iR2000/iR2010f GPR-8/NPG-20/C-EXV5 Drum Unit",
+    "oem": "6837A004AA,6837A002AA,6837A003AA",
+    "image": "img/spareparts/001.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "iR2018/2022/2025/2030  NPG-37 Drum Unit",
+    "oem": "2101B003AA,2101B001AA,2101B002AA",
+    "image": "img/spareparts/002.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "iR2525/2530/2535/2545 GPR-35/C-EXV33 Drum Unit(New)",
+    "oem": "2772B004AA,2772B002AA,2772B003AA",
+    "image": "img/spareparts/003.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "description": "iR2016/iR2020 NPG-28 Drum Unit",
+    "oem": "0385B003BA,0385B001BA,0385B002BA",
+    "image": "img/spareparts/004.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "iR2520/2525/2530 GPR-35/NPG-51/C-EXV33 Toner Cartridge 700g",
+    "oem": "2785B003AA",
+    "image": "img/spareparts/005.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "description": "iR2270/2870/3570/4570 GPR-15/16/NPG-25/26/C-EXV11/12 Toner Cartridge(New) 1060g",
+    "oem": "9629A003AA，9634A003AA",
+    "image": "img/spareparts/006.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "description": "iR1600/2016/2020 GPR-8/18/NPG-20/28/C-EXV5/14 Toner Cartridge 460g",
+    "oem": "6836A003AA,0384B003AA",
+    "image": "img/spareparts/007.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "description": "iR2270/2870/3570/4570 Drum Unit Rebuild Kit(Mit)",
+    "oem": "OPC Drum 1,Drum Cleaning Blade 1,Primary Charge Roller 1",
+    "image": "img/spareparts/008.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "description": "iR1018/1022if/1023if Drum Unit Rebuild Kit",
+    "oem": "OPC Drum 1,Drum Cleaning Blade 1,Primary Charge Roller 1",
+    "image": "img/spareparts/009.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "description": "iR1018/1022if/1023if/1024if OPC Drum Japan",
+    "oem": "0386B002AA",
+    "image": "img/spareparts/0010.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "description": "iR2016/2020/2018/2022/2025/2030 Long Life OPC Drum",
+    "oem": "NP0385B002",
+    "image": "img/spareparts/0011.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "description": "iR2270/2870/3235/3570/4570 Long Life OPC Drum(Mit)",
+    "oem": "NP0037593",
+    "image": "img/spareparts/0012.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "description": "iR2016/2018/2200/2270/3570 Fuser Fixing Film Japan",
+    "oem": "FG6-6039-film",
+    "image": "img/spareparts/0013.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "description": "iR3570/4570 Heating Element 220V",
+    "oem": "FM2-1787-Heat",
+    "image": "img/spareparts/0014.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "description": "iR3570/4570/3030/3035/3045 Lower Sleeved Roller",
+    "oem": "FC6-7207-000",
+    "image": "img/spareparts/0015.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "description": "iR2200/2270/3570/3025 Lower Cleaning Roller",
+    "oem": "FB5-4931-000",
+    "image": "img/spareparts/0016.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "description": "iR2200/2800/2870/3570/4570 Drum Cleaning Blade",
+    "oem": "",
+    "image": "img/spareparts/0017.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "description": "iR2270/2870/3570/4570 Thermistor",
+    "oem": "N/A",
+    "image": "img/spareparts/0018.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "description": "iR3570/4570/3030/ADV 4025 Lower Roller Bearing 2Pcs",
+    "oem": "XG9-0172-000",
+    "image": "img/spareparts/0019.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "description": "iR3570/4570/ADV4025/C5030 Lower Roller Bushing 2Pcs",
+    "oem": "FC5-7182-000",
+    "image": "img/spareparts/0020.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "description": "iR2200/2270/3035/3570/4570 Primary Charge Roller (OEM)",
+    "oem": "GPR18-PCR,NPG25/26-PCR",
+    "image": "img/spareparts/0021.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "description": "iR2270/3025/3245/3570 Magnetic Roller Assembly",
+    "oem": "FL2-0318-000,FL2-0290-000,FL2-0376-000",
+    "image": "img/spareparts/0022.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "description": "iR2016/2018/2022/2002/2202 Heating Element 220V",
+    "oem": "FM2-3353-Heat",
+    "image": "img/spareparts/0023.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "description": "iR2018/2022/2025/2030 Lower Sleeved Roller",
+    "oem": "FC5-5264-000",
+    "image": "img/spareparts/0024.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "description": "iR1600/2016/2018/2022 Drum Cleaning Blade",
+    "oem": "",
+    "image": "img/spareparts/0025.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "description": "iR2535/2545/ADV 4025/4035/4235 Fuser Fixing Film Japan",
+    "oem": "FM4-7900-Film",
+    "image": "img/spareparts/0026.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "description": "iR2270/2870/3025/2520/2525/2530 Lower Sleeved Roller",
+    "oem": "FC6-2942-000,FC7-0242-000",
+    "image": "img/spareparts/0027.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "description": "iR2535/2545/ADV 4025/4035/4225 Lower Sleeved Roller",
+    "oem": "FC9-8974-000",
+    "image": "img/spareparts/0028.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "description": "iR2520/2525/2530 Lower Roller Bushing 2Pcs",
+    "oem": "FC9-1063-000",
+    "image": "img/spareparts/0029.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "description": "iR3570/4570/ADV4025/C5030 Lower Roller Bushing 2Pcs",
+    "oem": "FC5-7182-000",
+    "image": "img/spareparts/0030.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "description": "iR2520/2525/2530 Lower Roller Gear 26T",
+    "oem": "FU8-0575-000",
+    "image": "img/spareparts/0031.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "description": "iR2535/2545 Lower Roller Gear 29T",
+    "oem": "FU8-0533-000",
+    "image": "img/spareparts/0032.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "description": "iR2520/2525/2530 Fuser Cleaning Roller Kit",
+    "oem": "FM3-9373-000",
+    "image": "img/spareparts/0033.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "description": "iR2520/2535/ADV4025/4225 Primary Charge Roller Japan",
+    "oem": "GPR35-PCR",
+    "image": "img/spareparts/0034.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "description": "iR2520/2525/2535/2545/ADVANCE 4025 Transfer Roller",
+    "oem": "FC9-0693-000",
+    "image": "img/spareparts/0035.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "description": "iR2520/2525/2535/2545/ADVANCE 4025 Drum Cleaning Blade",
+    "oem": "FM3-9265-000",
+    "image": "img/spareparts/0036.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "description": "iR2535/3235/ADV 4025/C2020 ADF Separation Pad",
+    "oem": "FL3-5538-010,FL2-9942-000",
+    "image": "img/spareparts/0037.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "description": "iR3570/2535/3235/ADV4025/C2020/C5030 ADF Feed Roller",
+    "oem": "FC6-2784-000",
+    "image": "img/spareparts/0038.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "description": "iR2535/3235/ADV4025/C2020 ADF Pickup Roller",
+    "oem": "FC8-6355-000",
+    "image": "img/spareparts/0039.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "description": "iR2535/ADV 4025/C2020/C5030  New Paper Feed Roller-PU",
+    "oem": "FC6-7083-000,FC5-6934-000,FB6-3406-000",
+    "image": "img/spareparts/0040.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "description": "iR5000/iR6000 Upper Fuser Roller",
+    "oem": "FB4-3639-000,FB4-3690-000",
+    "image": "img/spareparts/0041.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "description": "iR5000/6000 Lower Sleeved Roller",
+    "oem": "FB5-3619-000",
+    "image": "img/spareparts/0042.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "description": "iR5000/5570/5055/ADV 6075/6255/105 Fuser Cleaning Web",
+    "oem": "FY1-1157-000",
+    "image": "img/spareparts/0043.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "description": "iR5000/6000 Upper Roller Gear 52T",
+    "oem": "FS7-0661-000",
+    "image": "img/spareparts/0044.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "description": "iR550/600/5055/5065/5570/6570 Drum Cleaning Blade",
+    "oem": "FB4-1596-000,FA9-3995-000",
+    "image": "img/spareparts/0045.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "description": "iR5000/5570/5055/ADV 6075/6255/105 Fuser Cleaning Web",
+    "oem": "FY1-1157-000",
+    "image": "img/spareparts/0046.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "description": "iR5055/5065/5075/5570/6570 Thermistor",
+    "oem": "FM2-9766-000",
+    "image": "img/spareparts/0047.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "description": "iR5055/5065/5070/5075 ADF Separation Pad",
+    "oem": "FL2-0749-000",
+    "image": "img/spareparts/0048.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "description": "iR5055/5065/5075/5570/6570 ADF Separation Roller",
+    "oem": "FC5-3115-000",
+    "image": "img/spareparts/0049.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "description": "iR5055/5065/5075/5570/6570 ADF Pickup Roller",
+    "oem": "FC3-0722-000",
+    "image": "img/spareparts/0050.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "description": "Di2510/Di3510/Bizhub 200/250/350 Upper Fuser Roller",
+    "oem": "4030-5701-03",
+    "image": "img/spareparts/0051.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "description": "Di2510/3510/Bizhub200/250/350 Lower Sleeved Roller",
+    "oem": "4030-5702-03",
+    "image": "img/spareparts/0052.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "description": "Di152/1611/2510/Bizhub250/350 Drum Cleaning Blade",
+    "oem": "A0XX-3618-00,4021-5622-01,4034-5622-01",
+    "image": "img/spareparts/0053.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "description": "Di2510/3510/Bizhub 282/363 Upper Roller Gear 39T",
+    "oem": "4030-5703-02",
+    "image": "img/spareparts/0054.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "description": "Bizhub 350/362/423 Upper Picker Finger W/Spring",
+    "oem": "4030-5716-02,4040-5755-000",
+    "image": "img/spareparts/0055.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "description": "Bizhub250/363/KM3035 Upper Roller Bearing",
+    "oem": "2FG20230,4011-5762-01,NBRGY0886FCZZ",
+    "image": "img/spareparts/0056.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "description": "Bizhub250/282/363 Lower Roller Bearing 2Pcs",
+    "oem": "4011-5758-02",
+    "image": "img/spareparts/0057.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "description": "Bizhub250/363/KM3035 Upper Roller Bearing",
+    "oem": "2FG20230,4011-5762-01,NBRGY0886FCZZ",
+    "image": "img/spareparts/0058.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "description": "Bizhub250/282/363 Lower Roller Bearing 2Pcs",
+    "oem": "4011-5758-02",
+    "image": "img/spareparts/0059.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "description": "Di2510/3510/Bizhub200/282 Upper Roller Bushing-Right",
+    "oem": "4030-5741-02",
+    "image": "img/spareparts/0060.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "description": "Di2510/Bizhub200/282/283 Upper Roller Bushing-Left",
+    "oem": "4030-5740-02",
+    "image": "img/spareparts/0061.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "description": "Di1611/2510/Bizhub162/200/282/363 Transfer Roller",
+    "oem": "4034-0755-00",
+    "image": "img/spareparts/0062.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "description": "Di3510/Bizhub250/362 Fuser Tension Roller",
+    "oem": "4030-5805-03，4030-5805-02，4030-5805-01,4030-5805-00",
+    "image": "img/spareparts/0063.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "description": "Di3510/Bizhub250/362 Fuser Tension Roller Positioned",
+    "oem": "4030-5854-01，4030-5854-00",
+    "image": "img/spareparts/0064.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "description": "Bizhub 200/250/350/222/282/362/7728/223/283/363/423/7828/420/421/500/501/552/652 Bizhub C250/252/220/280/360/224/284/364/454/554/350/351/450/451/550/650/451/550/650/452/552/652/452/224e/284e/364e/Di2510/3510/450/470/550 Pickup/Feed Roller-PU(Japan)",
+    "oem": "4030-3005-01,4002-3216-01,A00J-5636-00",
+    "image": "img/spareparts/0065.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "description": "Di2510/3510/Bizhub 282/362 Separation Roller-PU",
+    "oem": "4030-0151-01",
+    "image": "img/spareparts/0066.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "description": "Bizhub 222/223/282/283/362/363 Upper Fuser Roller",
+    "oem": "",
+    "image": "img/spareparts/0067.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "description": "Bizhub 222/282/362/7728 Lower Sleeved Roller",
+    "oem": "",
+    "image": "img/spareparts/0068.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "description": "Bizhub 222/282/362/420/500 Paper Pickup Roller Kit",
+    "oem": "4030-3005-01(4pc),4030-0151-01(2pc)",
+    "image": "img/spareparts/0069.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "description": "Bizhub 223/283/363/423 Lower Sleeved Roller Japan",
+    "oem": "A1UD-R709-Lower",
+    "image": "img/spareparts/0070.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "description": "Bizhub 223/283/363/423/7828 Thermistor",
+    "oem": "",
+    "image": "img/spareparts/0071.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "description": "Bizhub 420/421 Upper Fuser Roller",
+    "oem": "50GA-53030",
+    "image": "img/spareparts/0072.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "description": "Bizhub 420/500/421/501 Lower Sleeved Roller",
+    "oem": "50GA-53040",
+    "image": "img/spareparts/0073.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "description": "Bizhub 500/501 Upper Fuser Roller",
+    "oem": "50GE-53030",
+    "image": "img/spareparts/0074.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "description": "Bizhub500/K7030/7145 Drum Cleaning Blade Assembly",
+    "oem": "26NA2090",
+    "image": "img/spareparts/0075.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "description": "Bizhub 420/421/500/501 Upper Picker Finger W/Spring",
+    "oem": "50GA7227-00",
+    "image": "img/spareparts/0076.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "description": "Aficio 2035/MP4000 Upper Roller Bearing 2Pcs",
+    "oem": "AE03-0047,AE03-0099,A232-3559,26NA53712,\nNBRGY0646FCZZ,NBRGY0729FCZZ，NBRGY0761FCZZ，26NA53712",
+    "image": "img/spareparts/0077.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "description": "Bizhub 420/500/DP3510 Lower Roller Bearing",
+    "oem": "50GA-53590,DZLM000169",
+    "image": "img/spareparts/0078.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "description": "K-7020/7030/7035/7145 Upper Roller Bushing A",
+    "oem": "26NA53720",
+    "image": "img/spareparts/0079.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "description": "Bizhub 420/500/421/501 Fuser Cleaning Web",
+    "oem": "50GA-53430",
+    "image": "img/spareparts/0080.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "description": "Di3510/Bizhub250/362 Fuser Tension Roller",
+    "oem": "4030-5805-03，4030-5805-02，4030-5805-01,4030-5805-00",
+    "image": "img/spareparts/0081.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "description": "Di3510/Bizhub250/362 Fuser Tension Roller Positioned",
+    "oem": "4030-5854-01，4030-5854-00",
+    "image": "img/spareparts/0082.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "description": "Bizhub 200/250/350/222/282/362/7728/223/283/363/423/7828/420/421/500/501/552/652 Bizhub C250/252/220/280/360/224/284/364/454/554/350/351/450/451/550/650/451/550/650/452/552/652/452/224e/284e/364e/Di2510/3510/450/470/550 Pickup/Feed Roller-PU(Japan)",
+    "oem": "4030-3005-01,4002-3216-01,A00J-5636-00",
+    "image": "img/spareparts/0083.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "description": "Di2510/3510/Bizhub 282/362 Separation Roller-PU",
+    "oem": "4030-0151-01",
+    "image": "img/spareparts/0084.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "description": "Bizhub 222/282/362/420/500 Paper Pickup Roller Kit",
+    "oem": "4030-3005-01(4pc),4030-0151-01(2pc)",
+    "image": "img/spareparts/0085.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "description": "Di650/Bizhub600/K7155/7165 Upper Fuser Roller",
+    "oem": "4024-2002-01,2FA20190,56AE53052",
+    "image": "img/spareparts/0086.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "description": "Bizhub 600/750/K7165 Long Life Upper Fuser Roller",
+    "oem": "4024-2002-01,56AE53052",
+    "image": "img/spareparts/0087.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "description": "Di650/Bizhub 600/750/K-7165 Lower Sleeved Roller",
+    "oem": "4024-1013-01,56AA53060,56AA53061,57AE53060",
+    "image": "img/spareparts/0088.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "description": "Di650/Bizhub600/K7155/7165 Fuser Cleaning Web",
+    "oem": "4024-1001-01,56AA5430",
+    "image": "img/spareparts/0089.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "description": "Bizhub600/750/Di551/650 Upper Picker Finger W/Spring",
+    "oem": "25BA53320,56AA54270,4024-1014-01",
+    "image": "img/spareparts/0090.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "description": "Di650/Bizhub 600/700 Lower Picker Finger",
+    "oem": "540053100,25BA53330",
+    "image": "img/spareparts/0091.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "description": "Di551/650/Bizhub 600/700/601/751 Upper Roller Bushing 2Pcs",
+    "oem": "4014-3007-01",
+    "image": "img/spareparts/0092.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "description": "Di450/Bizhub 600 Upper Roller Bearing 2个 6907Z 带卡簧7.26",
+    "oem": "4002-5705-01,4014-1747-01,454053391",
+    "image": "img/spareparts/0093.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "description": "Di650/Bizhub 600/K7165 Lower Roller Bearing",
+    "oem": "25BA76030,4024-2005-01",
+    "image": "img/spareparts/0094.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "description": "Bizhub 600/750/601/751 Drum Cleaning Blade",
+    "oem": "57AA20080",
+    "image": "img/spareparts/0095.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "description": "7155/7165/7255/Bizhub 600/750/601/751/Di551/650/Bizhub Pro C5500/5501/6500/6501/KONICA MINOTA 8050/CF5001/ColorFORCE 8050/Bizhub PRO C500 Paper Feed Roller",
+    "oem": "4024-2058-01,25SA-4800,56AAR72000",
+    "image": "img/spareparts/0096.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "description": "7155/7165/7255/Bizhub 600/750/601/751/Di551/650/Bizhub Pro C5500/5501/6500/6501/KONICA MINOTA 8050/CF5001/ColorFORCE 8050/Bizhub PRO C500 Paper Pickup Roller",
+    "oem": "4024-2056-01,56AAR72100",
+    "image": "img/spareparts/0097.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "description": "7155/7165/7255/Bizhub 600/750/601/751/Di551/650/Bizhub Pro C5500/5501/6500/6501/KONICA MINOTA 8050/CF5001/ColorFORCE 8050/Bizhub PRO C500 Reversing Roller",
+    "oem": "56AA-4080，56AAR71600,4024-2035-01",
+    "image": "img/spareparts/0098.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "description": "KM-3035/3050/4035/TASKalfa 420i Upper Fuser Roller",
+    "oem": "2FG20050",
+    "image": "img/spareparts/0099.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "description": "KM-3050/TASKalfa420i Lower Sleeved Roller W/Bearing",
+    "oem": "2GR94280",
+    "image": "img/spareparts/0100.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Product 101",
+    "description": "KM-2530/3035/4035/TASKalfa420i Drum Cleaning Blade",
+    "oem": "2BL18300",
+    "image": "img/spareparts/0101.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Product 102",
+    "description": "KM-3530/4035/5035/5050 Upper Picker Finger W/Spring",
+    "oem": "2BL20080",
+    "image": "img/spareparts/0102.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Product 103",
+    "description": "KM3035/4050/TASKalfa420i/3500i Upper Roller Gear 49T",
+    "oem": "2FG20070",
+    "image": "img/spareparts/0103.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Product 104",
+    "description": "KM-3035/3050/TASKalfa420i Upper Roller Bushing 2Pcs",
+    "oem": "2FG20190",
+    "image": "img/spareparts/0104.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Product 105",
+    "description": "KM3050/4050/5050/TASKalfa420i Htr Lamp 240V560W/667W",
+    "oem": "2GR94310",
+    "image": "img/spareparts/0105.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Product 106",
+    "description": "KM-2530/3035/C4035/TASKalfa 3050ci Paper Feed Roller",
+    "oem": "2AR07220",
+    "image": "img/spareparts/0106.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Product 107",
+    "description": "KM-2530/3035/2540/3060/C4035 Separation Roller",
+    "oem": "2AR07230",
+    "image": "img/spareparts/0107.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Product 108",
+    "description": "KM-3050/4050/3060/C4035/250ci Paper Pickup Roller",
+    "oem": "2BJ06010",
+    "image": "img/spareparts/0108.jpg"
+  }
+]
