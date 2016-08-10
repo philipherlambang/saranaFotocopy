@@ -52,4 +52,20 @@
 			chatInputEl.querySelector('input').focus();
 		}
 	}); */
+
+	$('.intro').backstretch([
+		"img/wallpaper1.jpg",
+		"img/wallpaper2.jpg",
+
+	], {duration: 3000, fade: 750});
+
+	$(document).ready(function() {
+	    $("#my-menu").mmenu();
+
+	    var API = $("#my-menu").data( "mmenu" );
+
+	    $("#my-button").click(function() {
+	         API.open();
+	      });
+	});
 }());
