@@ -5,29 +5,29 @@
 
 (function() {
 	// Navigation Scripts to Show Header on Scroll-Up
-	var MQL = 1170;
+	// var MQL = 1170;
 
 	// Primary Navigation Slide-in Effect
-	if ($(window).width() > MQL) {
-		var headerHeight = $('.header > .navbar-default').height();
-		$(window).on('scroll', { previousTop: 0 }, function() {
-			var currentTop = $(window).scrollTop();
-			// Check If User Is Scrolling Up
-			if (currentTop < this.previousTop) {
-				// If Scrolling Up...
-				if (currentTop > 0 && $('.header > .navbar-default').hasClass('is-fixed')) {
-					$('.header > .navbar-default').addClass('is-visible');
-				} else {
-					$('.header > .navbar-default').removeClass('is-visible is-fixed');
-				}
-			} else {
-				// If Scrolling Down...
-				$('.header > .navbar-default').removeClass('is-visible');
-				if (currentTop > headerHeight && !$('.header > .navbar-default').hasClass('is-fixed')) $('.header > .navbar-default').addClass('is-fixed');
-			}
-			this.previousTop = currentTop;
-		});
-	}
+	// if ($(window).width() > MQL) {
+	// 	var headerHeight = $('.header > .navbar-default').height();
+	// 	$(window).on('scroll', { previousTop: 0 }, function() {
+	// 		var currentTop = $(window).scrollTop();
+	// 		// Check If User Is Scrolling Up
+	// 		if (currentTop < this.previousTop) {
+	// 			// If Scrolling Up...
+	// 			if (currentTop > 0 && $('.header > .navbar-default').hasClass('is-fixed')) {
+	// 				$('.header > .navbar-default').addClass('is-visible');
+	// 			} else {
+	// 				$('.header > .navbar-default').removeClass('is-visible is-fixed');
+	// 			}
+	// 		} else {
+	// 			// If Scrolling Down...
+	// 			$('.header > .navbar-default').removeClass('is-visible');
+	// 			if (currentTop > headerHeight && !$('.header > .navbar-default').hasClass('is-fixed')) $('.header > .navbar-default').addClass('is-fixed');
+	// 		}
+	// 		this.previousTop = currentTop;
+	// 	});
+	// }
 
 	if (document.querySelector('.owl-single')) {
 		$('.owl-single').owlCarousel({
@@ -60,7 +60,11 @@
 	], {duration: 3000, fade: 750});
 
 	$(document).ready(function() {
-	    $("#my-menu").mmenu();
+	    $("#my-menu").mmenu({
+			"extensions": [
+				"theme-dark"
+			]
+      	});
 
 	    var API = $("#my-menu").data( "mmenu" );
 
